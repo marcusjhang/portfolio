@@ -6,24 +6,24 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
 
 const projects = [
   {
+    name: "Blog",
+    description:
+      "My first Blog. Built using Typescript and Astro.",
+    image: "/blog.png",
+    link: "https://marcus-ang.com",
+  },
+  {
     name: "Wiki",
     description:
       "A Wiki-Like Encyclopedia. Built using Django, Python, HTML, and Bootstrap.",
-    image: "/thankfulthoughts.png",
-    link: "https://thankfulthoughts.io/",
+    image: "/wiki.png",
+    link: "https://github.com/marcusjhang/wiki",
   },
   {
     name: "PokeCommerce",
     description: "A Pokemon-themed Commerce Page. Built using Django, Python, HTML, and Bootstrap.",
-    image: "/platoio.png",
-    link: "https://platoio.com/register",
-  },
-  {
-    name: "Etch-A-Sketch",
-    description:
-      "A simple Etch-A-Sketch Web Application. Built using Javascript, HTML and CSS.",
-    image: "/familyphotos.png",
-    link: "https://katorfamilyphotos.com/",
+    image: "/pokecommerce.png",
+    link: "https://github.com/marcusjhang/pokecommerce",
   },
 ]
 

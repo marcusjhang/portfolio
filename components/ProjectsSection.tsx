@@ -6,26 +6,23 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
 
 const projects = [
   {
-    name: "Thankful Thoughts",
+    name: "Wiki",
     description:
-      "ThankfulThoughts is a web app that generates an appreciative sentence of something or someone you are thankful for.",
+      "A Wiki-Like Encyclopedia. Built using Django, Python, HTML, and Bootstrap.",
     image: "/thankfulthoughts.png",
-    github: "https://github.com/hqasmei/thankful-thoughts",
     link: "https://thankfulthoughts.io/",
   },
   {
-    name: "PlatoIO",
-    description: "PlatoIO is a to do list app that built using the PERN stack.",
+    name: "PokeCommerce",
+    description: "A Pokemon-themed Commerce Page. Built using Django, Python, HTML, and Bootstrap.",
     image: "/platoio.png",
-    github: "https://github.com/hqasmei/platoio",
     link: "https://platoio.com/register",
   },
   {
-    name: "Kator Family Photos",
+    name: "Etch-A-Sketch",
     description:
-      "Kator Family Photos is a photos and video digitization service in the LA area.",
+      "A simple Etch-A-Sketch Web Application. Built using Javascript, HTML and CSS.",
     image: "/familyphotos.png",
-    github: "https://github.com/hqasmei/katorfamilyphotos",
     link: "https://katorfamilyphotos.com/",
   },
 ]
@@ -61,12 +58,6 @@ const ProjectsSection = () => {
                       {project.description}
                     </p>
                     <div className="flex flex-row align-bottom space-x-4">
-                      <Link href={project.github} target="_blank">
-                        <BsGithub
-                          size={30}
-                          className="hover:-translate-y-1 transition-transform cursor-pointer"
-                        />
-                      </Link>
                       <Link href={project.link} target="_blank">
                         <BsArrowUpRightSquare
                           size={30}

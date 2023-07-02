@@ -8,7 +8,7 @@ const projects = [
   {
     name: "Blog",
     description:
-      "My first Blog. Built using Typescript and Astro.",
+      "My first Blog. Built using Typescript and the Astro framework.",
     image: "/blog.png",
     link: "https://marcus-ang.com",
   },
@@ -20,7 +20,7 @@ const projects = [
     link: "https://github.com/marcusjhang/wiki",
   },
   {
-    name: "PokeCommerce",
+    name: "Commerce",
     description: "A Pokemon-themed Commerce Page. Built using Django, Python, HTML, and Bootstrap.",
     image: "/pokecommerce.png",
     link: "https://github.com/marcusjhang/pokecommerce",

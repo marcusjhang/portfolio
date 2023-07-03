@@ -36,7 +36,7 @@ const AboutSection = () => {
             </p>
             <br />
             <p>
-              I love technology. I'm currently exploring the world of <strong><a className="underline" href="https://marcus-ang.com/projects/" target="_blank" rel="noopener noreferrer">Full Stack Web Development</a></strong>! With some dabbling in Machine Learning on the side.&#x1F9D1;&#x200D;&#x1F4BB;
+              I love technology. I&apos;m currently exploring the world of <strong><a className="underline" href="https://marcus-ang.com/projects/" target="_blank" rel="noopener noreferrer">Full Stack Web Development</a></strong>! With some dabbling in Machine Learning on the side. &#x1F9D1;&#x200D;&#x1F4BB;
             </p>
             <br />
             <p>

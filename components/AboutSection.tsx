@@ -22,21 +22,21 @@ const AboutSection = () => {
   return (
     <section id="about">
       <div className="my-12 pb-12 md:pt-16 md:pb-48">
-        <div className="flex items-center s[ace-y-4 mb-10">
+        <div className="flex items-center space-y-4 mb-10">
           <h1 className="text-left font-bold text-4xl">
             About 
           </h1>
           <hr className="flex-grow h-1 mx-8 my-4 bg-teal-500 border-0 rounded"></hr>
         </div>
 
-        <div className="flex flex-col s[ace-y-10 items-stretch justify-center align-top md:space-x-10 md:space-y-0 md:p-4 md:flex-row md:text-left">
+        <div className="flex flex-col space-y-10 items-stretch justify-center align-top md:space-x-10 md:space-y-0 md:p-4 md:flex-row md:text-left">
           <div className="md:w-1/2 ">
             <p>
-              I am a freshman at the National University of Singapore (NUS), pursuing a double degree in <strong><a className="underline" href="https://www.comp.nus.edu.sg" target="_blank" rel="noopener noreferrer">Computer Science</a></strong> and <strong><a className="underline" href="https://bba.nus.edu.sg" target="_blank" rel="noopener noreferrer">Business Adminstration</a></strong>. 👨‍🎓
+              I am a freshman at the National University of Singapore, pursuing a double degree in <strong><a className="underline" href="https://www.comp.nus.edu.sg" target="_blank" rel="noopener noreferrer">Computer Science</a></strong> and <strong><a className="underline" href="https://bba.nus.edu.sg" target="_blank" rel="noopener noreferrer">Business Adminstration</a></strong>. &#x1F468;&#x200D;&#x1F393;
             </p>
             <br />
             <p>
-              I love technology. I'm currently exploring the world of <strong><a className="underline" href="https://marcus-ang.com/projects/" target="_blank" rel="noopener noreferrer">Full Stack Web Development</a></strong>! With some dabbling in Machine Learning on the side. 👨‍💻
+              I love technology. I'm currently exploring the world of <strong><a className="underline" href="https://marcus-ang.com/projects/" target="_blank" rel="noopener noreferrer">Full Stack Web Development</a></strong>! With some dabbling in Machine Learning on the side.&#x1F9D1;&#x200D;&#x1F4BB;
             </p>
             <br />
             <p>

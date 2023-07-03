@@ -8,7 +8,7 @@ const projects = [
   {
     name: "Blog",
     description:
-      "My first Blog. Built using Typescript and the Astro framework.",
+      "More about me! Built using Typescript and the Astro framework.",
     image: "/blog.png",
     link: "https://marcus-ang.com",
   },
@@ -30,7 +30,7 @@ const projects = [
 const ProjectsSection = () => {
   return (
     <section id="projects">
-        <div className="flex items-center s[ace-y-4">
+        <div className="flex items-center space-y-4 mb-10">
           <h1 className="text-left font-bold text-4xl">
             Projects 
           </h1>

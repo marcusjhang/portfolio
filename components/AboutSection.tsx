@@ -40,7 +40,7 @@ const AboutSection = () => {
             </p>
             <br />
             <p>
-              On my free days, I'll probably be caught <strong>Reading</strong>, <strong>Running</strong>, or <strong>Swimming</strong>. 
+              On my free days, I&apos;ll probably be caught <strong>Reading</strong>, <strong>Running</strong>, or <strong>Swimming</strong>. 
             </p>
             <br />
             <p>

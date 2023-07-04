@@ -1,5 +1,5 @@
 import React from "react"
-import { SiBootstrap, SiGit, SiHtml5, SiCss3, SiJavascript, SiPython, SiReact, SiDjango, SiFigma, SiSqlite} from 'react-icons/si';
+import { SiBootstrap, SiGit, SiHtml5, SiCss3, SiJavascript, SiPython, SiReact, SiDjango, SiFigma, SiSqlite, SiTailwindcss} from 'react-icons/si';
 import { FaJava, } from 'react-icons/fa';
 
 
@@ -11,6 +11,7 @@ const skills = [
   { skill: "CSS", icon: <SiCss3 /> },
   { skill: "React", icon: <SiReact /> },
   { skill: "Bootstrap", icon: <SiBootstrap /> },
+  { skill: "Tailwind", icon: <SiTailwindcss /> },
   { skill: "Django", icon: <SiDjango /> },
   { skill: "SQLite", icon: <SiSqlite /> },
   { skill: "Figma", icon: <SiFigma /> },

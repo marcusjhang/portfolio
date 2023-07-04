@@ -6,6 +6,13 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
 
 const projects = [
   {
+    name: "Library",
+    description:
+      "A reading list built using Bootstrap, HTML and Javascript.",
+    image: "/library.png",
+    link: "https://github.com/marcusjhang/library",
+  },
+  {
     name: "Blog",
     description:
       "More about me! Built using Typescript and the Astro framework.",

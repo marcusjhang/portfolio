@@ -32,16 +32,19 @@ const AboutSection = () => {
         <div className="flex flex-col space-y-10 items-stretch justify-center align-top md:space-x-10 md:space-y-0 md:p-4 md:flex-row md:text-left">
           <div className="md:w-1/2 ">
             <p>
-              I am a freshman at the National University of Singapore, pursuing a double degree in <strong><a className="underline" href="https://www.comp.nus.edu.sg" target="_blank" rel="noopener noreferrer">Computer Science</a></strong> and <strong><a className="underline" href="https://bba.nus.edu.sg" target="_blank" rel="noopener noreferrer">Business Adminstration</a></strong>. &#x1F468;&#x200D;&#x1F393;
+              I am a freshman at the National University of Singapore, pursuing a double degree in <strong>Computer Science</strong> and <strong>Business Adminstration</strong>. &#x1F468;&#x200D;&#x1F393;
             </p>
             <br />
             <p>
-              I love technology. I&apos;m currently exploring the world of <strong><a className="underline" href="https://marcus-ang.com/projects/" target="_blank" rel="noopener noreferrer">Full Stack Web Development</a></strong>! With some dabbling in Machine Learning on the side. &#x1F9D1;&#x200D;&#x1F4BB;
+              I love technology. I&apos;m currently exploring the world of <strong>Full Stack Web Development</strong>! With some dabbling in Machine Learning on the side. &#x1F9D1;&#x200D;&#x1F4BB;
             </p>
             <br />
             <p>
-              I have a wide range of hobbies and passions that keep me busy.
-              I mainly spend my free time <strong><a className="underline" href="https://marcus-ang.com/blog/readinglist/" target="_blank" rel="noopener noreferrer">Reading</a></strong>, <strong><a className="underline" href="https://marcus-ang.com/blog/running/" target="_blank" rel="noopener noreferrer">Running</a></strong>, or Swimming. 
+              On my free days, I'll probably be caught <strong>Reading</strong>, <strong>Running</strong>, or <strong>Swimming</strong>. 
+            </p>
+            <br />
+            <p>
+              More about me <strong><a className="underline" href="https://marcus-ang.com/" target="_blank" rel="noopener noreferrer">Here</a></strong>.
             </p>
           </div>
           <div className="text-center md:w-1/2 md:text-left">

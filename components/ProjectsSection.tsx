@@ -6,11 +6,11 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
 
 const projects = [
   {
-    name: "IPLocator",
+    name: "IP Locator",
     description:
       "IP Address to Location. Built using ReactJS, Tailwind, LeafletJS and IP Geolocation API by IPify.",
-    image: "/IPaddress.png",
-    link: "https://github.com/marcusjhang/ip-address-tracker",
+    image: "/IPLocator.png",
+    link: "https://github.com/marcusjhang/iplocator",
   },
   {
     name: "Wiki",

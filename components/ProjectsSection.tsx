@@ -8,7 +8,7 @@ const projects = [
   {
     name: "IP Address Tracker",
     description:
-      "IP Address Tracker. Built using ReactJS, Tailwind and usage of LeafletJS and <a href=https://geo.ipify.org>IP Geolocation API</a>.",
+      "IP Address Tracker. Built using ReactJS, Tailwind, LeafletJS and IP Geolocation API by IPify.",
     image: "/IPaddress.png",
     link: "https://github.com/marcusjhang/ip-address-tracker",
   },

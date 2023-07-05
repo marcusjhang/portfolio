@@ -6,11 +6,11 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
 
 const projects = [
   {
-    name: "Blog",
+    name: "IP Address Tracker",
     description:
-      "More about me! Built using Typescript and the Astro framework.",
-    image: "/blog.png",
-    link: "https://marcus-ang.com",
+      "IP Address Tracker. Built using ReactJS, Tailwind and usage of LeafletJS and <a href=https://geo.ipify.org>IP Geolocation API</a>.",
+    image: "/IPaddress.png",
+    link: "https://github.com/marcusjhang/ip-address-tracker",
   },
   {
     name: "Wiki",

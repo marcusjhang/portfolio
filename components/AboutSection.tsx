@@ -37,11 +37,11 @@ const AboutSection = () => {
             </p>
             <br />
             <p>
-              I love technology. I&apos;m currently exploring the world of <strong>Full Stack Web Development</strong>! With some dabbling in Machine Learning on the side. &#x1F9D1;&#x200D;&#x1F4BB;
+              I love technology. I&apos;m currently exploring the world of <strong>Full Stack Web Development</strong>! &#x1F9D1;&#x200D;&#x1F4BB;
             </p>
             <br />
             <p>
-              On my free days, I&apos;ll probably be caught <strong>Reading</strong>, <strong>Running</strong>, or <strong>Swimming</strong>. 
+              On my free days, you&apos;ll probably catch me <strong>Reading</strong> or <strong>Running</strong>. 
             </p>
             <br />
             <p>

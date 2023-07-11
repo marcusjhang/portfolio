@@ -41,10 +41,6 @@ const AboutSection = () => {
             </p>
             <br />
             <p>
-              On my free days, you&apos;ll probably catch me <strong>Reading</strong> or <strong>Running</strong>. 
-            </p>
-            <br />
-            <p>
               More about me <strong><a className="underline" href="https://marcus-ang.com/" target="_blank" rel="noopener noreferrer">Here</a></strong>.
             </p>
           </div>

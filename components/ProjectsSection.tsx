@@ -7,7 +7,7 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
 const projects = [
   {
     name: "IP Locator",
-    description: "Displays your location on the map based on IP Address provided. Built using ReactJS, Tailwind, LeafletJS and IP Geolocation API by IPify.",
+    description: "Displays your location on the map based on the IP Address provided. Built using ReactJS, Tailwind, LeafletJS and IP Geolocation API by IPify.",
     image: "/IPLocator.png",
     link: "https://github.com/marcusjhang/iplocator",
   },

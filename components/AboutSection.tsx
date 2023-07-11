@@ -41,7 +41,7 @@ const AboutSection = () => {
             </p>
             <br />
             <p>
-              More about me <strong><a className="underline" href="https://marcus-ang.com/" target="_blank" rel="noopener noreferrer">Here</a></strong>.
+              <strong><a className="underline" href="https://marcus-ang.com/" target="_blank" rel="noopener noreferrer">More about me</a></strong>.
             </p>
           </div>
           <div className="text-center md:w-1/2 md:text-left">

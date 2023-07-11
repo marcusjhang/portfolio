@@ -13,27 +13,26 @@ const projects = [
     link: "https://github.com/marcusjhang/iplocator",
   },
   {
-    name: "Wiki",
-    description:
-      "A Wiki-Like Encyclopedia. Built using Django, Python, HTML, and Bootstrap.",
-    image: "/wiki.png",
-    link: "https://github.com/marcusjhang/wiki",
-  },
-  {
     name: "Commerce",
     description: "A Pokemon-themed Commerce Page. Built using Django, Python, HTML, and Bootstrap.",
     image: "/pokecommerce.png",
     link: "https://github.com/marcusjhang/pokecommerce",
   },
   {
+    name: "Wiki",
+    description: "My first backend project, a Wiki-Like Encyclopedia. Built using Django, Python, HTML, and Bootstrap.",
+    image: "/wiki.png",
+    link: "https://github.com/marcusjhang/wiki",
+  },
+  {
     name: "Advice Generator",
-    description: "A Wisdom Generator. Built using React, CSS, and the Advice API.",
+    description: "A randomised wisdom generator. Built using React, CSS, and the Advice API.",
     image: "/advice.png",
     link: "https://github.com/marcusjhang/advice-generator",
   },
   {
     name: "Library",
-    description: "My first interaction with Vanilla Javascript!",
+    description: "My first interaction with Vanilla Javascript! Helps users track their rading list.",
     image: "/library.png",
     link: "https://github.com/marcusjhang/library",
   },

@@ -25,6 +25,18 @@ const projects = [
     image: "/pokecommerce.png",
     link: "https://github.com/marcusjhang/pokecommerce",
   },
+  {
+    name: "Advice Generator",
+    description: "A Wisdom Generator. Built using React, CSS, and the Advice API.",
+    image: "/advice.png",
+    link: "https://github.com/marcusjhang/advice-generator",
+  },
+  {
+    name: "Library",
+    description: "My first interaction with Vanilla Javascript!",
+    image: "/library.png",
+    link: "https://github.com/marcusjhang/library",
+  },
 ]
 
 const ProjectsSection = () => {

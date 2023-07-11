@@ -25,7 +25,7 @@ const projects = [
   },
   {
     name: "Advice Generator",
-    description: "A randomised wisdom generator. Built using React, CSS, and the Advice API.",
+    description: "A randomised wisdom generator. Built using ReactJS, CSS, and the Advice API.",
     image: "/advice.png",
     link: "https://github.com/marcusjhang/advice-generator",
   },

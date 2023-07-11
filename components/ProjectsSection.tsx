@@ -32,7 +32,7 @@ const projects = [
   },
   {
     name: "Library",
-    description: "My first interaction with Vanilla Javascript! Helps users track their rading list.",
+    description: "My first interaction with Vanilla Javascript! Helps users track their reading list.",
     image: "/library.png",
     link: "https://github.com/marcusjhang/library",
   },

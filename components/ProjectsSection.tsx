@@ -13,7 +13,7 @@ const projects = [
   },
   {
     name: "Commerce",
-    description: "A full-stack Pokemon-themed Commerce Page. Built using Django, Python, HTML, and Bootstrap.",
+    description: "A backend-focused Pokemon-themed Commerce Page. Built using Django, Python, HTML, and Bootstrap.",
     image: "/pokecommerce.png",
     link: "https://github.com/marcusjhang/pokecommerce",
   },

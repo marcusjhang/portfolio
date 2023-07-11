@@ -7,14 +7,13 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
 const projects = [
   {
     name: "IP Locator",
-    description:
-      "IP Address to Location. Built using ReactJS, Tailwind, LeafletJS and IP Geolocation API by IPify.",
+    description: "Displays your location on the map based on IP Address provided. Built using ReactJS, Tailwind, LeafletJS and IP Geolocation API by IPify.",
     image: "/IPLocator.png",
     link: "https://github.com/marcusjhang/iplocator",
   },
   {
     name: "Commerce",
-    description: "A Pokemon-themed Commerce Page. Built using Django, Python, HTML, and Bootstrap.",
+    description: "A full-stack Pokemon-themed Commerce Page. Built using Django, Python, HTML, and Bootstrap.",
     image: "/pokecommerce.png",
     link: "https://github.com/marcusjhang/pokecommerce",
   },

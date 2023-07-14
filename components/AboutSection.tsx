@@ -1,5 +1,5 @@
 import React from "react"
-import { SiBootstrap, SiGit, SiHtml5, SiCss3, SiJavascript, SiPython, SiReact, SiDjango, SiFigma, SiSqlite, SiTailwindcss} from 'react-icons/si';
+import { SiBootstrap, SiGit, SiHtml5, SiCss3, SiJavascript, SiPython, SiReact, SiDjango, SiFigma, SiSqlite, SiTailwindcss, SiTypescript, SiPostgresql, SiSupabase} from 'react-icons/si';
 import { FaJava, } from 'react-icons/fa';
 
 
@@ -7,6 +7,7 @@ const skills = [
   { skill: "Python", icon: <SiPython /> },
   { skill: "Java", icon: <FaJava /> },
   { skill: "JavaScript", icon: <SiJavascript /> },
+  { skill: "Typescript", icon: <SiTypescript /> },
   { skill: "HTML", icon: <SiHtml5 /> },
   { skill: "CSS", icon: <SiCss3 /> },
   { skill: "React", icon: <SiReact /> },
@@ -14,6 +15,8 @@ const skills = [
   { skill: "Tailwind", icon: <SiTailwindcss /> },
   { skill: "Django", icon: <SiDjango /> },
   { skill: "SQLite", icon: <SiSqlite /> },
+  { skill: "PostgreSQL", icon: <SiPostgresql /> },
+  { skill: "Supabase", icon: <SiSupabase /> },
   { skill: "Figma", icon: <SiFigma /> },
   { skill: "Git", icon: <SiGit /> },
 
@@ -45,7 +48,7 @@ const AboutSection = () => {
             </p>
           </div>
           <div className="text-center md:w-1/2 md:text-left">
-            <h1 className="text-2xl font-bold mb-3">Skills</h1>
+            <h1 className="text-2xl font-bold mb-3">Languages and Tools:</h1>
             <div className="flex flex-wrap justify-center z-10 md:justify-start">
               {skills.map((item, idx) => {
                 return (

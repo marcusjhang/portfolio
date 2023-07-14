@@ -1,5 +1,5 @@
 import React from "react"
-import { SiBootstrap, SiGit, SiHtml5, SiCss3, SiJavascript, SiPython, SiReact, SiDjango, SiFigma, SiSqlite, SiTailwindcss, SiTypescript, SiPostgresql, SiSupabase} from 'react-icons/si';
+import { SiBootstrap, SiGit, SiHtml5, SiCss3, SiJavascript, SiPython, SiReact, SiRedux, SiDjango, SiFigma, SiSqlite, SiTailwindcss} from 'react-icons/si';
 import { FaJava, } from 'react-icons/fa';
 
 
@@ -7,16 +7,14 @@ const skills = [
   { skill: "Python", icon: <SiPython /> },
   { skill: "Java", icon: <FaJava /> },
   { skill: "JavaScript", icon: <SiJavascript /> },
-  { skill: "Typescript", icon: <SiTypescript /> },
   { skill: "HTML", icon: <SiHtml5 /> },
   { skill: "CSS", icon: <SiCss3 /> },
   { skill: "React", icon: <SiReact /> },
+  { skill: "Redux", icon: <SiRedux /> },
   { skill: "Bootstrap", icon: <SiBootstrap /> },
   { skill: "Tailwind", icon: <SiTailwindcss /> },
   { skill: "Django", icon: <SiDjango /> },
   { skill: "SQLite", icon: <SiSqlite /> },
-  { skill: "PostgreSQL", icon: <SiPostgresql /> },
-  { skill: "Supabase", icon: <SiSupabase /> },
   { skill: "Figma", icon: <SiFigma /> },
   { skill: "Git", icon: <SiGit /> },
 

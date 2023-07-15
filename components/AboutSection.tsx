@@ -1,6 +1,6 @@
 import React from "react"
 import { SiBootstrap, SiGit, SiHtml5, SiCss3, SiJavascript, SiPython, SiReact, SiRedux, SiDjango, SiFigma, SiSqlite, SiTailwindcss} from 'react-icons/si';
-import { FaJava, } from 'react-icons/fa';
+import { FaJava} from 'react-icons/fa';
 
 
 const skills = [

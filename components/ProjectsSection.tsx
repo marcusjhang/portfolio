@@ -6,6 +6,12 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
 
 const projects = [
   {
+    name: "Spotify Search",
+    description: "Displays all albums of the artist you searched for using the Spotify API. Built using ReactJS and Bootstrap.",
+    image: "/spotify.png",
+    link: "https://github.com/marcusjhang/spotify",
+  },
+  {
     name: "IP Locator",
     description: "Displays your location on the map based on the IP Address provided. Built using ReactJS, Tailwind, LeafletJS and IP Geolocation API by IPify.",
     image: "/IPLocator.png",

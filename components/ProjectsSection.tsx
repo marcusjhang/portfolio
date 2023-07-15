@@ -7,7 +7,7 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
 const projects = [
   {
     name: "Spotify Search",
-    description: "Displays all albums of the artist you searched for using the Spotify API. Built using ReactJS and Bootstrap.",
+    description: "Displays all albums of an artist using the Spotify API. Built using ReactJS and Bootstrap.",
     image: "/spotify.png",
     link: "https://github.com/marcusjhang/spotify",
   },

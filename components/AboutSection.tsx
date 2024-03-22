@@ -33,7 +33,7 @@ const AboutSection = () => {
         <div className="flex flex-col space-y-10 items-stretch justify-center align-top md:space-x-10 md:space-y-0 md:p-4 md:flex-row md:text-left">
           <div className="md:w-1/2 ">
             <p>
-              I am a freshman at the National University of Singapore, pursuing a double degree in <strong>Computer Science</strong> and <strong>Business Adminstration</strong>. &#x1F468;&#x200D;&#x1F393;
+              I am a freshman at the National University of Singapore, pursuing a degree in <strong>Computer Science</strong>. &#x1F468;&#x200D;&#x1F393;
             </p>
             <br />
             <p>

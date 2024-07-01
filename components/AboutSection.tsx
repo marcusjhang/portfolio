@@ -39,10 +39,6 @@ const AboutSection = () => {
             <p>
               I love technology. I&apos;m currently exploring the world of <strong>Full Stack Web Development</strong>! &#x1F9D1;&#x200D;&#x1F4BB;
             </p>
-            <br />
-            <p>
-              <strong><a className="underline" href="https://marcus-ang.com/" target="_blank" rel="noopener noreferrer">More about me</a></strong>.
-            </p>
           </div>
           <div className="text-center md:w-1/2 md:text-left">
             <h1 className="text-2xl font-bold mb-3">Languages and Tools:</h1>
